@@ -1,0 +1,301 @@
+OrderID,OrderDate,Customer,Region,Category,Product,SalesChannel,Quantity,UnitPrice,Discount,Revenue,Cost,Profit
+1001,2025-11-24,Maritime College,West,Office Supplies,Printer Paper,Online,8,9.57,0,76.56,54.02,22.54
+1002,2025-02-14,Maritime College,Atlantic,Safety,First Aid Kit,Online,3,23.89,0.15,60.92,41.94,18.98
+1003,2025-04-12,Harbour Foods,Central,Safety,First Aid Kit,Retail,19,25.05,0,475.95,344.84,131.11
+1004,2025-12-24,PineTech,West,Cleaning,Disinfectant,Online,7,24.66,0.05,163.99,94.05,69.94
+1005,2025-02-19,PineTech,West,Furniture,Filing Cabinet,Online,24,183.89,0,4413.36,3415.13,998.23
+1006,2025-02-10,Northstar Labs,West,Safety,Safety Glasses,Corporate,7,33.41,0,233.87,164.2,69.67
+1007,2025-02-10,Oceanview Hotel,North,Technology,Monitor,Retail,15,108.77,0.05,1549.97,910.47,639.5
+1008,2025-04-18,Maritime College,Central,Furniture,Office Chair,Corporate,24,156.85,0.1,3387.96,2159.06,1228.9
+1009,2025-04-23,Bay Insurance,Central,Furniture,Office Chair,Online,11,176.55,0,1942.05,1162.37,779.68
+1010,2026-03-25,Maritime College,North,Furniture,Desk,Retail,21,183.82,0.05,3667.21,2134.74,1532.47
+1011,2025-10-03,Bluenose Retail,North,Furniture,Meeting Table,Retail,8,251.66,0,2013.28,1343.24,670.04
+1012,2026-01-22,PineTech,Central,Office Supplies,Printer Paper,Corporate,6,15.05,0.1,81.27,55.85,25.42
+1013,2025-07-15,Maritime College,West,Safety,First Aid Kit,Corporate,1,32.93,0,32.93,23.27,9.66
+1014,2026-01-20,Northstar Labs,Atlantic,Furniture,Filing Cabinet,Retail,14,145.93,0,2043.02,1571.85,471.17
+1015,2025-09-14,Harbour Foods,West,Technology,Monitor,Corporate,17,107.0,0,1819.0,1156.88,662.12
+1016,2025-10-04,Northstar Labs,West,Safety,Gloves,Retail,1,21.79,0.05,20.7,15.57,5.13
+1017,2025-05-03,Maritime College,Atlantic,Office Supplies,Pens,Online,24,12.48,0,299.52,232.11,67.41
+1018,2026-01-28,Maple Logistics,North,Technology,Keyboard,Corporate,6,84.13,0.15,429.06,277.74,151.32
+1019,2025-10-04,Maple Logistics,North,Technology,Router,Corporate,21,91.33,0.15,1630.24,1065.92,564.32
+1020,2025-04-26,Acadia Health,Atlantic,Office Supplies,Binders,Corporate,18,10.33,0,185.94,102.57,83.37
+1021,2025-04-28,Harbour Foods,West,Office Supplies,Printer Paper,Online,17,10.4,0.1,159.12,95.36,63.76
+1022,2026-01-06,Oceanview Hotel,Central,Safety,First Aid Kit,Retail,14,23.33,0,326.62,229.15,97.47
+1023,2025-08-05,Oceanview Hotel,Atlantic,Cleaning,Trash Bags,Corporate,21,25.0,0,525.0,296.07,228.93
+1024,2026-02-14,Citadel Services,Central,Office Supplies,Pens,Online,18,12.17,0.1,197.15,116.75,80.4
+1025,2025-05-08,Maple Logistics,Atlantic,Office Supplies,Notebooks,Online,21,16.79,0,352.59,272.51,80.08
+1026,2025-03-27,PineTech,North,Cleaning,Trash Bags,Online,13,23.97,0,311.61,198.55,113.06
+1027,2025-05-16,Citadel Services,North,Cleaning,Disinfectant,Corporate,24,25.14,0.15,512.86,360.15,152.71
+1028,2025-03-21,Acadia Health,Central,Technology,Router,Online,19,115.43,0,2193.17,1583.54,609.63
+1029,2025-01-26,Bluenose Retail,Central,Safety,First Aid Kit,Online,17,21.17,0,359.89,203.61,156.28
+1030,2025-12-12,PineTech,Atlantic,Technology,Laptop Stand,Corporate,8,105.0,0,840.0,581.66,258.34
+1031,2025-12-03,Harbour Foods,West,Safety,Safety Glasses,Online,22,33.64,0,740.08,452.26,287.82
+1032,2025-12-10,Bluenose Retail,West,Furniture,Meeting Table,Online,1,183.74,0.15,156.18,121.68,34.5
+1033,2025-10-03,Citadel Services,Central,Technology,Router,Retail,3,124.97,0.05,356.16,219.23,136.93
+1034,2026-03-03,Harbour Foods,Atlantic,Safety,Safety Glasses,Corporate,18,25.47,0,458.46,351.16,107.3
+1035,2025-05-16,Northstar Labs,Central,Office Supplies,Printer Paper,Retail,10,13.48,0.05,128.06,76.43,51.63
+1036,2025-09-16,Oceanview Hotel,Atlantic,Cleaning,Disinfectant,Online,21,17.94,0.05,357.9,200.47,157.43
+1037,2026-01-30,Bluenose Retail,Central,Technology,Router,Corporate,15,103.19,0.1,1393.07,945.91,447.16
+1038,2025-02-08,Oceanview Hotel,West,Technology,Monitor,Corporate,18,76.35,0,1374.3,769.09,605.21
+1039,2026-02-12,PineTech,Central,Office Supplies,Binders,Corporate,8,14.0,0.05,106.4,77.61,28.79
+1040,2025-11-14,PineTech,Central,Technology,Keyboard,Online,14,68.15,0.05,906.4,661.63,244.77
+1041,2026-02-15,Maple Logistics,Central,Technology,Router,Corporate,4,91.94,0,367.76,274.89,92.87
+1042,2025-04-13,Northstar Labs,West,Cleaning,Disinfectant,Online,8,12.9,0,103.2,66.22,36.98
+1043,2026-03-19,Acadia Health,West,Office Supplies,Binders,Corporate,17,11.76,0.15,169.93,106.4,63.53
+1044,2025-03-01,Oceanview Hotel,West,Furniture,Desk,Online,4,201.17,0.05,764.45,548.54,215.91
+1045,2025-08-12,Maritime College,North,Safety,Gloves,Corporate,7,24.59,0.1,154.92,85.27,69.65
+1046,2025-12-18,Bluenose Retail,North,Technology,Router,Online,22,127.73,0.15,2388.55,1486.16,902.39
+1047,2026-01-04,PineTech,North,Furniture,Filing Cabinet,Retail,13,213.85,0.15,2363.04,1368.85,994.19
+1048,2025-12-07,PineTech,West,Cleaning,Paper Towels,Retail,18,23.1,0.05,395.01,243.32,151.69
+1049,2026-02-07,Harbour Foods,North,Safety,Safety Glasses,Retail,15,32.84,0.15,418.71,275.86,142.85
+1050,2025-12-04,Maple Logistics,West,Office Supplies,Binders,Online,25,10.37,0.05,246.29,148.18,98.11
+1051,2025-03-17,Bay Insurance,Central,Office Supplies,Printer Paper,Retail,20,15.54,0,310.8,203.49,107.31
+1052,2025-04-10,Bluenose Retail,North,Cleaning,Trash Bags,Online,5,20.87,0,104.35,78.82,25.53
+1053,2026-02-03,Bluenose Retail,Central,Cleaning,Paper Towels,Corporate,17,18.45,0.15,266.6,161.91,104.69
+1054,2025-08-22,Maritime College,West,Technology,Laptop Stand,Retail,20,120.7,0.15,2051.9,1329.94,721.96
+1055,2025-08-17,Maritime College,North,Technology,Laptop Stand,Retail,25,82.94,0.05,1969.82,1430.36,539.46
+1056,2025-09-06,Maritime College,North,Technology,Router,Online,23,85.5,0.05,1868.17,1171.8,696.37
+1057,2025-02-11,PineTech,Central,Technology,Keyboard,Retail,23,76.66,0,1763.18,995.8,767.38
+1058,2025-06-19,Bay Insurance,North,Safety,First Aid Kit,Online,7,35.92,0.1,226.3,171.56,54.74
+1059,2025-12-23,PineTech,North,Office Supplies,Notebooks,Online,12,10.91,0.1,117.83,87.94,29.89
+1060,2025-10-03,PineTech,North,Safety,Masks,Online,9,28.14,0,253.26,161.94,91.32
+1061,2026-01-06,Acadia Health,Central,Technology,Laptop Stand,Corporate,18,68.29,0.1,1106.3,759.07,347.23
+1062,2025-02-12,Oceanview Hotel,North,Cleaning,Paper Towels,Online,2,15.88,0.05,30.17,18.06,12.11
+1063,2025-06-22,Oceanview Hotel,North,Cleaning,Disinfectant,Retail,3,18.53,0.15,47.25,26.55,20.7
+1064,2025-04-25,Harbour Foods,Atlantic,Office Supplies,Printer Paper,Online,7,15.45,0.15,91.93,53.78,38.15
+1065,2025-08-31,Bluenose Retail,North,Office Supplies,Pens,Corporate,9,14.84,0,133.56,92.07,41.49
+1066,2026-02-03,PineTech,Atlantic,Technology,Router,Corporate,1,128.27,0.15,109.03,76.95,32.08
+1067,2025-07-23,Bay Insurance,Central,Technology,Monitor,Online,23,117.87,0.15,2304.36,1694.33,610.03
+1068,2026-02-05,PineTech,North,Office Supplies,Binders,Corporate,12,8.98,0.05,102.37,56.6,45.77
+1069,2026-02-26,PineTech,North,Cleaning,Sanitizer,Retail,21,23.83,0.1,450.39,320.98,129.41
+1070,2025-04-01,Maple Logistics,North,Safety,Safety Glasses,Retail,14,35.78,0.15,425.78,260.46,165.32
+1071,2026-03-02,Oceanview Hotel,North,Office Supplies,Binders,Online,25,12.3,0.15,261.38,183.93,77.45
+1072,2025-01-15,Bay Insurance,Central,Cleaning,Disinfectant,Retail,7,17.07,0.05,113.52,71.32,42.2
+1073,2025-12-26,Maple Logistics,Central,Furniture,Office Chair,Online,8,216.73,0.1,1560.46,1057.51,502.95
+1074,2025-12-20,Northstar Labs,North,Cleaning,Trash Bags,Online,3,16.31,0.1,44.04,31.23,12.81
+1075,2025-12-06,Citadel Services,North,Safety,Safety Glasses,Corporate,17,26.34,0.15,380.61,238.29,142.32
+1076,2025-05-19,Harbour Foods,Central,Furniture,Filing Cabinet,Online,24,150.27,0,3606.48,2599.78,1006.7
+1077,2025-04-09,Bluenose Retail,West,Technology,Laptop Stand,Corporate,19,131.44,0.15,2122.76,1458.89,663.87
+1078,2026-03-03,Acadia Health,Central,Technology,Router,Retail,6,86.6,0.15,441.66,255.77,185.89
+1079,2025-01-28,Citadel Services,Central,Safety,Safety Glasses,Corporate,25,29.22,0,730.5,498.23,232.27
+1080,2025-09-03,Bluenose Retail,Central,Cleaning,Disinfectant,Online,9,24.46,0.1,198.13,114.17,83.96
+1081,2025-07-25,Maple Logistics,Atlantic,Cleaning,Sanitizer,Online,5,22.82,0.05,108.39,61.74,46.65
+1082,2025-03-02,Bay Insurance,Central,Safety,First Aid Kit,Corporate,13,28.43,0.1,332.63,205.7,126.93
+1083,2025-08-08,Harbour Foods,Atlantic,Furniture,Office Chair,Online,21,152.59,0,3204.39,1878.17,1326.22
+1084,2025-10-10,Maple Logistics,Atlantic,Office Supplies,Pens,Retail,15,14.19,0.1,191.56,118.19,73.37
+1085,2025-05-28,Maple Logistics,Atlantic,Furniture,Meeting Table,Corporate,8,242.41,0.15,1648.39,1157.29,491.1
+1086,2025-08-06,Bay Insurance,Central,Office Supplies,Pens,Retail,5,9.0,0,45.0,32.95,12.05
+1087,2026-01-19,Maritime College,North,Safety,Safety Glasses,Online,15,33.1,0.1,446.85,342.65,104.2
+1088,2025-10-04,Acadia Health,Atlantic,Cleaning,Trash Bags,Corporate,2,23.81,0.05,45.24,31.16,14.08
+1089,2025-02-16,Citadel Services,West,Technology,Monitor,Corporate,2,117.25,0,234.5,154.35,80.15
+1090,2025-05-23,Bluenose Retail,North,Technology,Laptop Stand,Online,16,89.64,0.05,1362.53,850.01,512.52
+1091,2026-03-16,Maritime College,North,Technology,Router,Corporate,16,85.67,0.1,1233.65,909.35,324.3
+1092,2025-01-19,Acadia Health,West,Cleaning,Sanitizer,Retail,11,14.06,0.1,139.19,104.24,34.95
+1093,2025-12-03,Citadel Services,North,Safety,First Aid Kit,Online,7,29.76,0.15,177.07,128.2,48.87
+1094,2026-01-25,Citadel Services,West,Office Supplies,Pens,Corporate,5,16.19,0.1,72.86,54.83,18.03
+1095,2025-03-04,Bluenose Retail,Central,Office Supplies,Pens,Retail,18,8.51,0.1,137.86,78.78,59.08
+1096,2025-08-25,Citadel Services,North,Office Supplies,Pens,Corporate,10,12.67,0.05,120.36,77.7,42.66
+1097,2025-08-30,Harbour Foods,Central,Technology,Laptop Stand,Retail,7,127.8,0.15,760.41,548.75,211.66
+1098,2026-03-19,Northstar Labs,North,Office Supplies,Binders,Retail,17,10.64,0,180.88,111.25,69.63
+1099,2026-03-05,Maritime College,Central,Safety,First Aid Kit,Retail,18,29.09,0.05,497.44,336.74,160.7
+1100,2025-07-13,PineTech,Central,Cleaning,Disinfectant,Corporate,8,19.8,0,158.4,118.31,40.09
+1101,2025-01-23,Acadia Health,North,Furniture,Meeting Table,Retail,22,225.84,0,4968.48,3298.7,1669.78
+1102,2025-03-06,Harbour Foods,Atlantic,Safety,Safety Glasses,Retail,4,29.91,0.1,107.68,59.6,48.08
+1103,2025-07-29,Oceanview Hotel,North,Technology,Monitor,Retail,11,107.95,0.1,1068.71,747.52,321.19
+1104,2026-03-13,Acadia Health,West,Safety,First Aid Kit,Corporate,23,36.99,0.1,765.69,574.76,190.93
+1105,2025-11-13,Bluenose Retail,West,Office Supplies,Pens,Online,24,9.16,0,219.84,159.36,60.48
+1106,2025-08-16,PineTech,Atlantic,Technology,Router,Online,11,119.44,0.05,1248.15,789.39,458.76
+1107,2025-03-16,Maple Logistics,Central,Technology,Laptop Stand,Online,6,71.75,0.1,387.45,268.32,119.13
+1108,2025-09-12,Citadel Services,Central,Safety,Masks,Retail,21,24.58,0.05,490.37,344.91,145.46
+1109,2025-05-28,PineTech,Atlantic,Safety,Masks,Retail,12,38.96,0.05,444.14,309.55,134.59
+1110,2025-12-20,Bay Insurance,West,Furniture,Meeting Table,Online,13,233.52,0,3035.76,1835.29,1200.47
+1111,2025-07-03,Acadia Health,West,Safety,Safety Glasses,Online,22,27.36,0,601.92,409.4,192.52
+1112,2025-11-07,Harbour Foods,Central,Cleaning,Disinfectant,Corporate,12,15.36,0,184.32,127.7,56.62
+1113,2025-11-18,Northstar Labs,West,Office Supplies,Printer Paper,Retail,2,13.27,0,26.54,15.15,11.39
+1114,2025-06-17,Northstar Labs,Central,Cleaning,Paper Towels,Online,18,23.64,0.05,404.24,271.69,132.55
+1115,2026-03-02,Bluenose Retail,North,Technology,Router,Retail,24,124.38,0,2985.12,1963.36,1021.76
+1116,2025-03-14,Oceanview Hotel,West,Technology,Laptop Stand,Online,13,67.43,0.15,745.1,430.98,314.12
+1117,2025-12-11,Maritime College,West,Furniture,Meeting Table,Online,22,155.46,0,3420.12,2368.42,1051.7
+1118,2025-06-17,Bluenose Retail,Atlantic,Safety,Masks,Corporate,15,37.42,0.05,533.24,372.91,160.33
+1119,2025-03-13,Citadel Services,West,Office Supplies,Printer Paper,Retail,4,9.22,0.15,31.35,18.22,13.13
+1120,2025-07-09,Northstar Labs,Central,Safety,First Aid Kit,Retail,21,21.54,0.1,407.11,281.56,125.55
+1121,2025-01-17,Oceanview Hotel,North,Furniture,Desk,Retail,8,233.79,0,1870.32,1450.65,419.67
+1122,2025-10-06,Maple Logistics,North,Furniture,Office Chair,Retail,7,247.99,0.1,1562.34,892.23,670.11
+1123,2025-11-25,Maritime College,Atlantic,Safety,Gloves,Retail,8,38.98,0.15,265.06,158.29,106.77
+1124,2025-04-17,Harbour Foods,Central,Safety,Masks,Retail,25,22.49,0.15,477.91,263.16,214.75
+1125,2025-03-08,Maple Logistics,Central,Safety,Safety Glasses,Online,22,36.58,0,804.76,445.37,359.39
+1126,2025-10-29,Bluenose Retail,Central,Furniture,Office Chair,Retail,2,141.97,0.1,255.55,171.47,84.08
+1127,2025-09-01,Maritime College,Atlantic,Cleaning,Disinfectant,Retail,17,15.39,0.15,222.39,124.53,97.86
+1128,2025-06-04,Citadel Services,Atlantic,Cleaning,Sanitizer,Retail,13,17.97,0,233.61,154.83,78.78
+1129,2025-02-07,Oceanview Hotel,Central,Office Supplies,Binders,Online,5,10.71,0.15,45.52,30.78,14.74
+1130,2025-07-15,Maritime College,North,Safety,Safety Glasses,Corporate,20,28.03,0,560.6,418.29,142.31
+1131,2026-01-05,Bluenose Retail,North,Technology,Laptop Stand,Online,14,89.04,0.1,1121.9,719.93,401.97
+1132,2025-06-10,Bluenose Retail,West,Cleaning,Disinfectant,Retail,5,21.25,0.1,95.62,54.07,41.55
+1133,2025-02-17,Bluenose Retail,West,Cleaning,Sanitizer,Online,18,13.36,0.15,204.41,138.83,65.58
+1134,2025-07-30,Maple Logistics,Atlantic,Furniture,Meeting Table,Retail,20,165.37,0,3307.4,2258.69,1048.71
+1135,2025-03-21,PineTech,Atlantic,Cleaning,Paper Towels,Retail,18,17.23,0.05,294.63,200.95,93.68
+1136,2026-03-09,Oceanview Hotel,West,Safety,Gloves,Online,6,24.96,0.05,142.27,108.4,33.87
+1137,2025-01-04,Maritime College,North,Technology,Keyboard,Online,5,115.77,0,578.85,330.58,248.27
+1138,2025-04-21,Bay Insurance,North,Cleaning,Trash Bags,Retail,6,17.26,0.05,98.38,71.69,26.69
+1139,2025-11-02,PineTech,Central,Office Supplies,Printer Paper,Online,25,13.59,0,339.75,208.13,131.62
+1140,2025-09-06,Bluenose Retail,North,Safety,First Aid Kit,Retail,7,34.4,0,240.8,151.56,89.24
+1141,2025-05-26,Maple Logistics,West,Safety,First Aid Kit,Online,8,27.35,0.15,185.98,104.63,81.35
+1142,2025-06-04,Harbour Foods,West,Technology,Keyboard,Retail,11,74.48,0.1,737.35,532.23,205.12
+1143,2025-03-08,Citadel Services,West,Cleaning,Paper Towels,Online,13,23.46,0,304.98,198.34,106.64
+1144,2025-02-09,Oceanview Hotel,North,Furniture,Meeting Table,Corporate,21,178.63,0,3751.23,2412.63,1338.6
+1145,2025-03-29,PineTech,West,Safety,First Aid Kit,Online,14,36.15,0,506.1,329.07,177.03
+1146,2025-09-26,Bluenose Retail,West,Office Supplies,Notebooks,Corporate,11,10.26,0,112.86,64.06,48.8
+1147,2025-09-29,Harbour Foods,West,Safety,Masks,Retail,24,38.38,0,921.12,556.67,364.45
+1148,2025-05-12,Bay Insurance,Central,Technology,Keyboard,Corporate,3,78.28,0.1,211.36,138.8,72.56
+1149,2026-01-25,Northstar Labs,West,Safety,First Aid Kit,Corporate,11,22.56,0,248.16,163.25,84.91
+1150,2026-02-12,Oceanview Hotel,West,Furniture,Office Chair,Corporate,3,165.11,0.1,445.8,249.05,196.75
+1151,2026-03-02,Acadia Health,Atlantic,Furniture,Office Chair,Corporate,20,189.89,0.1,3418.02,2336.13,1081.89
+1152,2025-08-19,Oceanview Hotel,West,Safety,Masks,Corporate,16,29.43,0,470.88,307.78,163.1
+1153,2026-01-01,Bay Insurance,Atlantic,Office Supplies,Pens,Online,23,12.08,0.1,250.06,167.67,82.39
+1154,2025-03-23,Oceanview Hotel,West,Furniture,Filing Cabinet,Retail,14,223.58,0.15,2660.6,1495.37,1165.23
+1155,2025-02-03,Oceanview Hotel,North,Furniture,Office Chair,Retail,9,217.19,0.15,1661.5,1247.54,413.96
+1156,2025-02-11,Bluenose Retail,West,Safety,Masks,Retail,21,33.29,0.1,629.18,364.71,264.47
+1157,2025-06-08,PineTech,West,Safety,First Aid Kit,Online,22,33.38,0.15,624.21,356.73,267.48
+1158,2025-09-18,Citadel Services,West,Furniture,Office Chair,Retail,6,245.85,0.05,1401.34,1076.18,325.16
+1159,2025-04-09,Maritime College,Central,Technology,Keyboard,Online,10,122.65,0,1226.5,817.79,408.71
+1160,2026-03-04,Bay Insurance,West,Safety,Gloves,Corporate,5,31.31,0,156.55,91.94,64.61
+1161,2026-02-19,Bay Insurance,Atlantic,Technology,Laptop Stand,Retail,12,111.48,0,1337.76,1034.1,303.66
+1162,2025-05-26,Bay Insurance,Central,Cleaning,Paper Towels,Retail,16,23.99,0,383.84,243.59,140.25
+1163,2025-08-14,Bay Insurance,North,Cleaning,Disinfectant,Corporate,17,17.88,0,303.96,224.29,79.67
+1164,2025-03-12,Northstar Labs,North,Furniture,Office Chair,Retail,18,243.72,0.15,3728.92,2780.91,948.01
+1165,2025-02-12,Maple Logistics,North,Technology,Router,Corporate,5,121.76,0,608.8,467.36,141.44
+1166,2026-02-23,Bluenose Retail,Atlantic,Cleaning,Disinfectant,Retail,2,17.6,0.05,33.44,20.21,13.23
+1167,2025-07-11,Northstar Labs,West,Technology,Monitor,Online,23,109.72,0,2523.56,1467.82,1055.74
+1168,2026-03-01,Maple Logistics,North,Cleaning,Paper Towels,Retail,20,12.67,0,253.4,140.48,112.92
+1169,2026-03-04,Bay Insurance,Atlantic,Technology,Laptop Stand,Retail,8,86.53,0,692.24,418.7,273.54
+1170,2025-08-23,Harbour Foods,North,Office Supplies,Printer Paper,Corporate,18,8.54,0.15,130.66,89.14,41.52
+1171,2025-05-30,Oceanview Hotel,West,Cleaning,Sanitizer,Online,19,17.85,0,339.15,227.37,111.78
+1172,2025-02-04,Acadia Health,North,Safety,Gloves,Retail,2,32.06,0.05,60.91,37.05,23.86
+1173,2025-07-02,Oceanview Hotel,Central,Office Supplies,Binders,Corporate,22,13.68,0.15,255.82,183.96,71.86
+1174,2025-03-10,Citadel Services,West,Office Supplies,Binders,Corporate,6,15.38,0.1,83.05,64.41,18.64
+1175,2025-11-20,Acadia Health,Atlantic,Technology,Keyboard,Corporate,25,129.25,0,3231.25,1995.27,1235.98
+1176,2026-02-10,Acadia Health,West,Technology,Monitor,Retail,17,92.98,0.15,1343.56,885.25,458.31
+1177,2026-01-21,PineTech,West,Technology,Router,Online,21,88.57,0,1859.97,1364.94,495.03
+1178,2026-04-01,Maritime College,North,Cleaning,Trash Bags,Retail,6,18.85,0.1,101.79,64.58,37.21
+1179,2025-05-17,Oceanview Hotel,Atlantic,Office Supplies,Notebooks,Retail,20,16.76,0,335.2,226.41,108.79
+1180,2025-02-22,Citadel Services,West,Office Supplies,Binders,Retail,15,13.46,0.1,181.71,106.91,74.8
+1181,2025-06-29,PineTech,West,Cleaning,Sanitizer,Corporate,14,16.06,0,224.84,127.54,97.3
+1182,2025-07-06,Bluenose Retail,Atlantic,Safety,Masks,Online,20,32.89,0.1,592.02,330.35,261.67
+1183,2025-05-01,Oceanview Hotel,North,Furniture,Filing Cabinet,Corporate,2,202.24,0.1,364.03,279.66,84.37
+1184,2025-08-16,Acadia Health,West,Office Supplies,Pens,Retail,11,13.86,0,152.46,117.53,34.93
+1185,2026-01-12,Maple Logistics,North,Technology,Laptop Stand,Corporate,4,83.91,0.05,318.86,227.01,91.85
+1186,2025-11-10,Citadel Services,Central,Furniture,Meeting Table,Online,5,233.46,0.1,1050.57,619.53,431.04
+1187,2025-02-14,Harbour Foods,Atlantic,Furniture,Filing Cabinet,Corporate,18,162.59,0.05,2780.29,2073.58,706.71
+1188,2026-02-11,Maritime College,Atlantic,Furniture,Desk,Online,5,155.83,0.1,701.24,389.92,311.32
+1189,2025-10-21,Citadel Services,Central,Furniture,Meeting Table,Corporate,3,134.28,0.1,362.56,282.76,79.8
+1190,2025-09-27,Maritime College,Atlantic,Cleaning,Trash Bags,Online,11,20.69,0.1,204.83,134.6,70.23
+1191,2025-06-26,Maritime College,Central,Technology,Keyboard,Retail,17,127.06,0,2160.02,1601.05,558.97
+1192,2025-03-20,Bluenose Retail,Central,Furniture,Desk,Retail,23,154.41,0.15,3018.72,2281.65,737.07
+1193,2025-05-09,Harbour Foods,Central,Technology,Router,Corporate,10,107.36,0,1073.6,714.58,359.02
+1194,2025-10-31,Bay Insurance,Central,Safety,Masks,Corporate,20,33.72,0.15,573.24,359.8,213.44
+1195,2025-01-22,PineTech,Atlantic,Office Supplies,Printer Paper,Corporate,25,13.24,0,331.0,240.44,90.56
+1196,2025-11-13,Bluenose Retail,West,Office Supplies,Notebooks,Corporate,10,12.46,0.1,112.14,69.35,42.79
+1197,2025-12-19,Oceanview Hotel,North,Office Supplies,Pens,Retail,16,12.3,0.05,186.96,128.91,58.05
+1198,2026-03-18,Maple Logistics,North,Furniture,Filing Cabinet,Online,25,172.69,0.15,3669.66,2107.93,1561.73
+1199,2025-08-27,Bay Insurance,North,Office Supplies,Binders,Online,5,9.21,0.05,43.75,33.58,10.17
+1200,2025-08-03,Maritime College,West,Technology,Keyboard,Corporate,24,87.3,0,2095.2,1392.47,702.73
+1201,2025-08-28,Maple Logistics,North,Cleaning,Disinfectant,Online,3,24.51,0.15,62.5,40.95,21.55
+1202,2025-04-21,Acadia Health,Atlantic,Safety,Safety Glasses,Online,10,29.3,0.1,263.7,162.37,101.33
+1203,2026-03-10,PineTech,Central,Office Supplies,Notebooks,Retail,24,11.47,0.1,247.75,157.11,90.64
+1204,2025-01-27,Maritime College,West,Safety,Masks,Corporate,10,21.04,0.15,178.84,116.89,61.95
+1205,2025-05-24,Oceanview Hotel,Central,Safety,Gloves,Online,13,26.91,0.05,332.34,225.43,106.91
+1206,2026-01-22,Citadel Services,North,Technology,Keyboard,Corporate,2,69.51,0,139.02,99.28,39.74
+1207,2025-09-23,Northstar Labs,Central,Cleaning,Paper Towels,Retail,20,16.61,0.1,298.98,232.56,66.42
+1208,2025-10-31,Bay Insurance,West,Furniture,Meeting Table,Retail,1,172.41,0,172.41,133.68,38.73
+1209,2025-06-07,Bay Insurance,West,Office Supplies,Notebooks,Corporate,25,13.26,0,331.5,237.33,94.17
+1210,2025-09-03,Citadel Services,Central,Technology,Laptop Stand,Corporate,8,68.6,0,548.8,325.92,222.88
+1211,2025-06-10,Acadia Health,North,Cleaning,Paper Towels,Corporate,7,17.77,0.15,105.73,80.54,25.19
+1212,2025-12-28,Citadel Services,West,Technology,Keyboard,Corporate,16,101.44,0.05,1541.89,1187.31,354.58
+1213,2025-09-30,Northstar Labs,West,Furniture,Filing Cabinet,Corporate,16,150.23,0,2403.68,1476.27,927.41
+1214,2025-04-26,Northstar Labs,Central,Furniture,Filing Cabinet,Corporate,23,187.61,0.1,3883.53,2447.5,1436.03
+1215,2025-05-28,Bluenose Retail,North,Office Supplies,Notebooks,Retail,25,15.16,0.05,360.05,201.51,158.54
+1216,2025-06-27,Northstar Labs,North,Cleaning,Disinfectant,Online,7,23.03,0.05,153.15,117.1,36.05
+1217,2025-03-12,Acadia Health,Central,Office Supplies,Pens,Online,22,16.0,0,352.0,245.25,106.75
+1218,2025-02-21,Harbour Foods,North,Cleaning,Disinfectant,Online,22,22.31,0,490.82,378.83,111.99
+1219,2025-07-28,Bluenose Retail,Central,Cleaning,Trash Bags,Retail,11,16.2,0,178.2,135.22,42.98
+1220,2025-11-30,Acadia Health,Atlantic,Safety,Masks,Online,14,36.89,0,516.46,394.99,121.47
+1221,2026-03-05,Bay Insurance,Central,Cleaning,Trash Bags,Corporate,10,23.65,0,236.5,146.31,90.19
+1222,2025-02-24,Citadel Services,North,Furniture,Filing Cabinet,Corporate,18,192.06,0,3457.08,2578.1,878.98
+1223,2025-05-20,Acadia Health,West,Technology,Monitor,Online,24,97.02,0.05,2212.06,1582.24,629.82
+1224,2026-01-13,Maritime College,Central,Furniture,Filing Cabinet,Online,20,233.87,0.1,4209.66,3116.02,1093.64
+1225,2025-06-17,PineTech,Atlantic,Office Supplies,Notebooks,Online,5,12.41,0,62.05,34.22,27.83
+1226,2025-05-01,Oceanview Hotel,West,Cleaning,Disinfectant,Retail,19,21.71,0,412.49,251.68,160.81
+1227,2025-12-21,Northstar Labs,Atlantic,Technology,Monitor,Retail,10,77.12,0.15,655.52,499.71,155.81
+1228,2025-12-20,Citadel Services,West,Office Supplies,Binders,Corporate,8,10.24,0,81.92,54.07,27.85
+1229,2026-01-18,Maple Logistics,North,Safety,Safety Glasses,Corporate,18,37.49,0.15,573.6,421.29,152.31
+1230,2026-01-26,Maritime College,North,Technology,Monitor,Corporate,23,90.56,0.15,1770.45,1019.44,751.01
+1231,2025-09-16,Citadel Services,Central,Technology,Keyboard,Retail,17,95.88,0,1629.96,1165.24,464.72
+1232,2025-02-16,Maritime College,Atlantic,Safety,First Aid Kit,Retail,5,29.66,0.1,133.47,90.72,42.75
+1233,2025-08-25,PineTech,North,Furniture,Office Chair,Retail,1,219.97,0.15,186.97,105.97,81.0
+1234,2025-06-26,PineTech,Atlantic,Office Supplies,Printer Paper,Retail,2,10.81,0,21.62,15.71,5.91
+1235,2025-07-11,Oceanview Hotel,North,Cleaning,Trash Bags,Retail,3,21.2,0.15,54.06,31.39,22.67
+1236,2025-03-02,Citadel Services,Central,Technology,Laptop Stand,Corporate,8,122.02,0,976.16,756.58,219.58
+1237,2025-12-11,Bluenose Retail,North,Safety,First Aid Kit,Online,8,28.63,0,229.04,140.49,88.55
+1238,2025-01-17,Acadia Health,Central,Cleaning,Sanitizer,Online,3,13.87,0,41.61,27.16,14.45
+1239,2025-05-06,Northstar Labs,North,Office Supplies,Notebooks,Online,18,10.23,0,184.14,107.21,76.93
+1240,2025-04-30,Northstar Labs,West,Safety,Safety Glasses,Online,10,36.77,0.15,312.55,187.79,124.76
+1241,2025-05-21,PineTech,North,Office Supplies,Pens,Corporate,16,8.79,0.05,133.61,102.42,31.19
+1242,2026-02-07,Citadel Services,North,Safety,Safety Glasses,Retail,5,25.48,0,127.4,92.18,35.22
+1243,2025-05-04,Harbour Foods,Central,Technology,Router,Retail,2,103.9,0.1,187.02,126.83,60.19
+1244,2025-07-18,Bluenose Retail,Central,Technology,Router,Retail,21,71.76,0.1,1356.26,1010.2,346.06
+1245,2025-10-02,Maple Logistics,West,Technology,Monitor,Retail,22,106.73,0,2348.06,1763.24,584.82
+1246,2026-02-16,Maple Logistics,North,Safety,Masks,Online,11,25.54,0,280.94,168.2,112.74
+1247,2026-01-15,Maritime College,Central,Office Supplies,Notebooks,Corporate,20,14.31,0.1,257.58,195.88,61.7
+1248,2025-06-14,Citadel Services,North,Furniture,Meeting Table,Corporate,21,171.27,0.05,3416.84,2161.9,1254.94
+1249,2025-08-27,Maple Logistics,West,Office Supplies,Notebooks,Online,12,11.03,0,132.36,89.92,42.44
+1250,2026-01-15,Maple Logistics,West,Technology,Monitor,Corporate,19,105.01,0.1,1795.67,1109.53,686.14
+1251,2025-06-18,Citadel Services,Central,Technology,Laptop Stand,Retail,18,110.03,0.05,1881.51,1146.19,735.32
+1252,2026-01-06,Maritime College,Central,Cleaning,Trash Bags,Corporate,12,14.73,0.15,150.25,99.51,50.74
+1253,2025-11-25,Maple Logistics,Atlantic,Office Supplies,Printer Paper,Corporate,2,14.82,0.1,26.68,15.52,11.16
+1254,2025-02-04,Bay Insurance,Central,Technology,Monitor,Corporate,15,91.32,0.15,1164.33,811.16,353.17
+1255,2025-09-05,Northstar Labs,Atlantic,Cleaning,Sanitizer,Corporate,18,17.78,0,320.04,214.99,105.05
+1256,2025-10-02,Maple Logistics,North,Furniture,Office Chair,Online,4,241.67,0.15,821.68,480.06,341.62
+1257,2025-11-14,Maple Logistics,West,Safety,Safety Glasses,Retail,13,21.15,0.1,247.45,162.22,85.23
+1258,2025-12-23,PineTech,Atlantic,Technology,Router,Corporate,21,117.01,0,2457.21,1580.51,876.7
+1259,2025-10-10,Oceanview Hotel,Atlantic,Cleaning,Sanitizer,Corporate,6,13.64,0.1,73.66,51.44,22.22
+1260,2025-10-17,Bluenose Retail,Central,Office Supplies,Printer Paper,Online,23,15.86,0.1,328.3,201.04,127.26
+1261,2025-12-17,PineTech,Central,Furniture,Office Chair,Retail,1,247.15,0.15,210.08,122.51,87.57
+1262,2025-02-09,Harbour Foods,Central,Furniture,Desk,Corporate,13,211.31,0.15,2334.98,1462.39,872.59
+1263,2026-02-09,Bay Insurance,Atlantic,Office Supplies,Binders,Online,14,10.35,0,144.9,91.05,53.85
+1264,2025-11-01,Oceanview Hotel,Atlantic,Cleaning,Disinfectant,Corporate,9,22.47,0.1,182.01,120.64,61.37
+1265,2025-10-11,Northstar Labs,Central,Cleaning,Trash Bags,Corporate,19,20.92,0,397.48,289.21,108.27
+1266,2026-02-13,Oceanview Hotel,Atlantic,Technology,Monitor,Retail,5,91.77,0,458.85,330.43,128.42
+1267,2025-07-04,Bluenose Retail,Atlantic,Office Supplies,Printer Paper,Retail,15,11.42,0.05,162.74,93.33,69.41
+1268,2025-04-06,Bay Insurance,North,Cleaning,Trash Bags,Online,1,13.73,0.15,11.67,6.67,5.0
+1269,2026-02-06,Maritime College,Atlantic,Furniture,Meeting Table,Retail,14,174.86,0,2448.04,1754.54,693.5
+1270,2025-05-05,Bluenose Retail,North,Safety,Masks,Online,5,24.87,0.05,118.13,78.37,39.76
+1271,2025-03-27,Maple Logistics,North,Cleaning,Disinfectant,Retail,16,22.46,0.05,341.39,207.53,133.86
+1272,2026-01-05,Bay Insurance,North,Cleaning,Paper Towels,Online,5,16.44,0.1,73.98,46.34,27.64
+1273,2025-07-14,Bay Insurance,West,Furniture,Meeting Table,Retail,21,248.75,0,5223.75,3234.02,1989.73
+1274,2025-12-22,Citadel Services,West,Technology,Laptop Stand,Online,13,130.92,0.05,1616.86,1162.56,454.3
+1275,2025-10-22,Maritime College,North,Technology,Router,Retail,13,90.77,0.15,1003.01,597.75,405.26
+1276,2025-04-03,Bluenose Retail,North,Safety,Gloves,Corporate,7,28.19,0.05,187.46,138.94,48.52
+1277,2026-02-24,PineTech,Central,Cleaning,Trash Bags,Corporate,10,15.65,0,156.5,111.82,44.68
+1278,2025-02-07,Oceanview Hotel,North,Cleaning,Trash Bags,Corporate,17,24.24,0.1,370.87,250.35,120.52
+1279,2025-12-26,Acadia Health,Atlantic,Safety,Gloves,Online,22,32.63,0,717.86,501.65,216.21
+1280,2025-10-16,Maritime College,North,Cleaning,Disinfectant,Online,1,13.84,0,13.84,9.24,4.6
+1281,2025-10-13,Harbour Foods,North,Safety,Masks,Retail,13,28.68,0.15,316.91,224.63,92.28
+1282,2025-06-26,Harbour Foods,Atlantic,Office Supplies,Notebooks,Retail,14,16.13,0,225.82,130.23,95.59
+1283,2025-06-28,Citadel Services,North,Furniture,Filing Cabinet,Online,17,186.85,0.1,2858.8,1636.53,1222.27
+1284,2025-06-13,Harbour Foods,Atlantic,Office Supplies,Binders,Corporate,4,8.59,0.05,32.64,22.82,9.82
+1285,2026-01-15,PineTech,Central,Technology,Keyboard,Retail,18,94.85,0.1,1536.57,927.05,609.52
+1286,2025-11-19,PineTech,North,Technology,Keyboard,Retail,1,115.54,0,115.54,75.49,40.05
+1287,2025-07-19,Maritime College,Central,Office Supplies,Pens,Retail,25,14.31,0,357.75,244.27,113.48
+1288,2025-04-06,Oceanview Hotel,Central,Furniture,Filing Cabinet,Retail,4,159.06,0.1,572.62,384.44,188.18
+1289,2025-11-02,Northstar Labs,Atlantic,Cleaning,Trash Bags,Retail,12,23.25,0.15,237.15,139.84,97.31
+1290,2025-11-11,Harbour Foods,Central,Safety,Gloves,Retail,4,24.28,0,97.12,57.5,39.62
+1291,2025-09-19,Harbour Foods,Central,Cleaning,Trash Bags,Corporate,13,17.93,0.1,209.78,146.04,63.74
+1292,2025-10-12,Oceanview Hotel,West,Technology,Laptop Stand,Online,6,87.42,0.1,472.07,326.89,145.18
+1293,2025-01-05,Citadel Services,Central,Cleaning,Paper Towels,Retail,18,18.97,0.1,307.31,197.94,109.37
+1294,2025-08-01,Northstar Labs,Central,Cleaning,Trash Bags,Online,19,12.99,0,246.81,152.33,94.48
+1295,2025-04-26,Bluenose Retail,Central,Safety,Safety Glasses,Retail,19,34.15,0.1,583.97,395.02,188.95
+1296,2025-10-21,PineTech,West,Office Supplies,Binders,Corporate,25,8.75,0.1,196.88,133.02,63.86
+1297,2025-02-22,Bluenose Retail,Atlantic,Technology,Router,Retail,9,89.68,0,807.12,525.42,281.7
+1298,2026-02-02,Maple Logistics,West,Technology,Keyboard,Corporate,20,108.58,0,2171.6,1502.13,669.47
+1299,2026-02-21,Northstar Labs,West,Technology,Monitor,Corporate,9,106.19,0,955.71,596.78,358.93
+1300,2025-05-29,Harbour Foods,Atlantic,Safety,Safety Glasses,Online,25,35.0,0,875.0,680.99,194.01
